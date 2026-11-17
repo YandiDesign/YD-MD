@@ -138,7 +138,7 @@ shasum -a 256 ~/Downloads/YD-MD-1.0.dmg
 ### Project
 
 - Website: https://yd-md.pages.dev
-- Public repository: source of the release build, this README and the issue tracker.
+- Public repository: the release build, this README and the issue tracker.
 - Source code: kept in a private repository.
 - Made by Yandi Design. Copyright 2026 YANDI DESIGN. All rights reserved.
 
